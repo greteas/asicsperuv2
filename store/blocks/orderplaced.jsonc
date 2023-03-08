@@ -1,4 +1,4 @@
-{
+{/*
   "order-placed": {
     "blocks": ["op-header", "op-order"]
   },
@@ -111,5 +111,5 @@
       "name": "deliveryPackages"
     },
     "children": ["op-order-delivery-packages"]
-  }
+  }*/
 }
