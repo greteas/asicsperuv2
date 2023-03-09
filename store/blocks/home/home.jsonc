@@ -1,6 +1,8 @@
 {
   "store.home": {
     "blocks": [
+      "countdown.title",
+      "countdown",
       "SwitchVisibility",
       "list-context.image-list#banner-principal",
       "__fold__",
